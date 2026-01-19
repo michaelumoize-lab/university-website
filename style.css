@@ -319,6 +319,13 @@ h3{
         margin-left: 0;
         margin-right: 15px;
     }
+    .testimonials .row{
+        flex-direction: column;
+    }
+
+    .testimonials-col{
+        flex-basis: 100%;
+    }
 }
 
 /* --- call to action --- */
